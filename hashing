@@ -1,0 +1,7 @@
+hashing : a way to take some row data and mixing all together to form a similar single piece of data. 
+
+
+in encryption , there's a way to decrypt the encrypted item . 
+
+
+but there is no way to unhash a hash value . 
