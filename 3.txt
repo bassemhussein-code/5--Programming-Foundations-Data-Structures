@@ -1,0 +1,14 @@
+two arrays .. you need to contructs  only stack for both .. 
+
+
+  with push1 .. push2.. pop1 .. pop2 
+
+
+  push1  .. push for the first list 
+
+  push2 .. push for the second list 
+
+  pop1 ... pop for the first list 
+ 
+
+  pop .. pop for the second list 

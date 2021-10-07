@@ -1,0 +1,14 @@
+Check if two binary trees are identical or not – Iterative and Recursive
+
+
+
+  first you need to construct the node class .. 
+   at which ... we can construct the node and its left .. and its right 
+
+
+  second the function that .. compares the two treess .. 
+
+
+   if both  of the trees are empty .. then return true .. 
+
+  

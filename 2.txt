@@ -1,0 +1,24 @@
+Evaluate a postfix expression
+
+
+
+    you can easily .. compute the postfix expersion by using the a stack ..
+    the idea is to traverse throught the given postfix expersion .. from the left .. to .. 
+    the right .. if the current character of the expersion (is a operand ) .. push it into the stack ..'
+    if the current character of the experssion .. is ( a operator ) .. pop the last two items .. form the 
+    stack .. 
+
+
+
+
+
+   the most important thing .. to push the equivalent   
+
+
+
+   again .. push the equivalent .. 
+
+
+
+   ex .. if ch =='*":
+             stack.append(x*y)

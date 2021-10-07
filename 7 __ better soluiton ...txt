@@ -1,0 +1,22 @@
+O(V + M )   where v : num of vertexes .. and M is the num of edges .. 
+
+
+
+    strongly connected graph . tell me again .. what does this mean ???? 
+
+     yes .. from any vertex you can reach the rest of the nodes .. 
+
+     so .. there exist .. there exist ... at least on node can reach the rest .. 
+
+
+        from one vertex .. you can determine if the graph is strongly conncected .. or not .. 
+
+         why we can't choose a random vertex ??   shall we ??  
+
+        yes ,, we can ..
+
+      insteadof looping through the vertexes .. we would choose just one .. ok :) 
+
+
+     
+ 

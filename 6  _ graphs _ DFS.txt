@@ -1,0 +1,55 @@
+graphs .. dfs 
+
+
+       strongly connected graphs .. 
+
+
+    is said to be strongly connected graphs .. if from any node .. you can reach the rest of the nodes of the graphs .. 
+
+
+   first step in the dfs.. problem 
+
+
+    you need to construct the Graph class   which allocate the source and destination .. of the adjlist in the graph 
+
+     from each vertex .. there is a list .. adjlist .. its destinations
+
+
+    second thing .. 
+       check function 
+
+
+          in the check function .. you do DFS function   which should check if you reached the rest vertexes or not..
+
+
+     if the DFS  funtion .. doesn't reach all the vertexes .. 
+
+         then .. this is not strongly connected graph
+
+
+
+
+
+     the most important thing .. is ..............   
+                                                     time compelxity for this example is O(n X(n+m))          where n : num of vertexes .. m: num of edges 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+stack implementation using .. the linked list 
+
+
+ the advantage here .. if you want to shrink and grow the size of the stack ..
