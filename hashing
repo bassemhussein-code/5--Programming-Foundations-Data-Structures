@@ -12,3 +12,7 @@ in programming , we often use hash values as a way to store or get a value at a 
 ###### Hash tabel ######
 
 Hash table : is an implementation of hte associative array abstract data structure . 
+
+when a hash table created internally , it's really an array based data structure where we add extra functionality to get us past the limitations of an array . 
+
+we use the term (bucket) to describe each entry or place for a key-value pair to go in a hash table 
