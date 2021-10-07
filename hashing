@@ -15,4 +15,8 @@ Hash table : is an implementation of hte associative array abstract data structu
 
 when a hash table created internally , it's really an array based data structure where we add extra functionality to get us past the limitations of an array . 
 
-we use the term (bucket) to describe each entry or place for a key-value pair to go in a hash table 
+we use the term (bucket) to describe each entry or place for a key-value pair to go in a hash table . 
+
+
+we'll never add just a key or just a value . we'll always add a pair . 
+
