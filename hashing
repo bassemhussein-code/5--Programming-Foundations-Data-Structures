@@ -20,3 +20,26 @@ we use the term (bucket) to describe each entry or place for a key-value pair to
 
 we'll never add just a key or just a value . we'll always add a pair . 
 
+
+when we add a new pair to the hash table alot of stuff is going on behind the scences  . The key will go through a hash function. 
+and then an integer value will pop out . 
+Depending on the function , it could be a rather large number , so we can't just use it as an array index in our implementation . 
+
+but we can use it to calculate the array index . 
+This requires some logic . 
+
+and it's all done within the hash table implementation . 
+
+
+""""""""""OUR GOAL""""""""""""""""""""""""""''
+make integer hash value smaller but in array that's related to the current size of the hash table. 
+
+
+""""""" Why do this ? """""""""""""""'
+
+
+
+
+it helps us evenly distrubute the elements across the (buckets) we have. To keep this simple , we use a modular operation . 
+
+Essentially we take hash value , divide it by the size of the hash table . or the number of buckets on the table and use the remainder as the index for where we'll store the value for a given key  , 
