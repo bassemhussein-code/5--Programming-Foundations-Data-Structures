@@ -58,3 +58,32 @@ associative array = hash table = dictionary
 assoicative array has the same name in "php " 
 
 dictionary when we deal with "python " 
+
+swift : dictionaries 
+
+ruby : hash class 
+
+js : don't support hash table or array with named indices . but we can use objects .
+
+C# : hash table in system.Collections 
+
+java : hash table and hash map collections 
+
+
+
+########## the most important thing . when to use hash table ? ###############################
+
+hash map operations alway take the same amount of time , regardless of the size of the hash table . 
+
+there is a little bit processing invloved for retrival and insertion , but it's the same amount o processing every time no matter how big hash table is ... 
+
+
+search : O(1)
+delete : O(1)
+insert : O(1)
+
+
+
+
+
+
