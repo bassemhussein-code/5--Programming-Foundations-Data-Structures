@@ -5,3 +5,10 @@ in encryption , there's a way to decrypt the encrypted item .
 
 
 but there is no way to unhash a hash value . 
+
+in programming , we often use hash values as a way to store or get a value at a certain location .. 
+
+
+###### Hash tabel ######
+
+Hash table : is an implementation of hte associative array abstract data structure . 
