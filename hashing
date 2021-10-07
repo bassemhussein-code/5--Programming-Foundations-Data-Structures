@@ -43,3 +43,8 @@ make integer hash value smaller but in array that's related to the current size 
 it helps us evenly distrubute the elements across the (buckets) we have. To keep this simple , we use a modular operation . 
 
 Essentially we take hash value , divide it by the size of the hash table . or the number of buckets on the table and use the remainder as the index for where we'll store the value for a given key  , 
+
+
+ """"""""""""""collision """"""""""""""""'
+ 
+ sometimes there are collisions in which two separate keys each map to teh same slot in the table .
