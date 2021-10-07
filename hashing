@@ -48,3 +48,13 @@ Essentially we take hash value , divide it by the size of the hash table . or th
  """"""""""""""collision """"""""""""""""'
  
  sometimes there are collisions in which two separate keys each map to teh same slot in the table .
+
+
+
+hash table across languages as my view : 
+
+associative array = hash table = dictionary 
+
+assoicative array has the same name in "php " 
+
+dictionary when we deal with "python " 
